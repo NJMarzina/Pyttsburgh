@@ -35,7 +35,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="templates\index.html">
+    <Content Include="templates\app1.html">
       <SubType>Code</SubType>
     </Content>
   </ItemGroup>
