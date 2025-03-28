@@ -33,11 +33,15 @@
     <Compile Include="app1.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="app2.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Content Include="templates\app1.html">
       <SubType>Code</SubType>
     </Content>
+    <Content Include="templates\app2.html" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="templates\" />
