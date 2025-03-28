@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>String Analysis</title>
+</head>
+<body>
+    <h1>Enter a String for Analysis</h1>
+    <form method="POST">
+        <label for="string">Enter string:</label>
+        <input type="text" id="string" name="string" required>
+        <button type="submit">Submit</button>
+    </form>
+
+    {% if num_letters is not none %}
+    <h2>Analysis Results:</h2>
+    <ul>
+        <li><strong>Number of Letters:</strong> {{ num_letters }}</li>
+        <li><strong>Number of Words:</strong> {{ num_words }}</li>
+        <li><strong>Number of Sentences:</strong> {{ num_sentences }}</li>
+    </ul>
+    {% endif %}
+</body>
+</html>
