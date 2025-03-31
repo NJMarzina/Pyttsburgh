@@ -9,6 +9,8 @@ I’m gonna do a challenge to make a project for every idea you listed [here](ht
 
 - Meaning if all goes according to plan, this project will run from 3:20AM March 26, 2025 until 3:20AM May 26, 2025 <br />
 
+- i reread over the list and this id never gonna be completed before May 26, so we'll just finish it when we finish it <br />
+
 Challenge list here: <br />
 Day 1: A number converter (binary, octal, hexadecimal, custom base)
 
